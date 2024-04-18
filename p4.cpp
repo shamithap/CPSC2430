@@ -21,7 +21,7 @@ int main() {
   srand(time(0));
   cout << "\n\n";
   
-  cout << "Welcome TA Riley to my amazing p4 program!\n\n";
+  cout << "Welcome to my amazing p4 program!\n\n";
   
   cout << "Testing inserting and resize functions...\n";
   cout << "inserting values onto heap (h1):\n\n";
